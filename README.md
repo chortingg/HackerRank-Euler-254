@@ -1,1 +1,1 @@
-# HackerRank-Euler-254
+# HackerRank-Project-Euler-254
